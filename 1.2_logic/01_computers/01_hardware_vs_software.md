@@ -4,16 +4,18 @@
 Write **at least 50 words** explaining what hardware is.
 
 
-A hardware refers to the physical parts of a computer that we can see and touch for example keyboard, mouse, monitor, processor, RAM and hard drive. Each hardware component has a specific job. For example, the keyboard is used to enter information, while monitor displays the results on the screen.
+A hardware is the physical parts of a computer such as keyboard, mouse, monitor, processor, RAM and hard drive. All of this can be seen withour eyes and is tangible and they are all collectively called hardware. Each of the hardware has a specific task such as keyboard outputs data by the mouse displays the output on the monitor.
+
 
 ## Explain Software
 Write **at least 50 words** explaining what software is.
 
 
-Software is a set of programs and instructions that tell a computer what to do. Unlike hardware, software cannot be physically touched. Examples including Windows, Microsoft World, Google Chrome and games. Software helps users to perform different tasks, such as writing documents, browsing the internet and playing video games.
+Software or software program is the tangible application or set of directions that are executed on a computer hardware system. Software comprises computer programs, operating systems, devices, and other related data. Examples of software programs embrace word processor, spreadsheets, and net browsers.
+
 
 ## How Do Hardware and Software Interact?
 Write **at least 50 words** describing how they interact.
 
 
-Hardware and Software work together to make a computer function properly. Software guides instructions, and  hardware carries them out. For example, when I open a web browser, the processor runs the program, RAM helps it work smoothly, and the monitor displays the webpage. Without hardware, software cannot run and without software, hardware cannot perform useful tasks. 
+Hardware and Software are the lifelines of a computer. Both needs each other to work simultaneously with each other. Software helps run commands while hardware helps execute the commands. For instance, when I start a web browser program, the processor executes the code, the RAM helps execute it nicely and the monitor shows the web page.
